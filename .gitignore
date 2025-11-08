@@ -1,0 +1,29 @@
+# --- PyDev / Eclipse ---
+.project
+.pydevproject
+.settings/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual env ---
+venv/
+.env/
+env/
+.venv/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# --- Logs / temporary ---
+*.log
+*.tmp
+*.bak
+*~
