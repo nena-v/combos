@@ -12,7 +12,7 @@ The list of words must be made of words separated by newlines.
     
 ## Options:
 
-- w / --wordlist : path to a list of words.
-- o / --output-file : path to a file to write the output.
+- -w / --wordlist : path to a list of words.
+- -o / --output-file : path to a file to write the output.
 - --no-self : don't do combos with the world itself (with the word "admin", don't do "adminadmin").
 - --no-duplicate : detect duplicates in the list of words and don't take them into account more than once.
